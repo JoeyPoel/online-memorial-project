@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.welcome-section {
+  background: url('/PeacefulClouds.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
+}
+
